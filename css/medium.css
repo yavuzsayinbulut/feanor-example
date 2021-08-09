@@ -1,0 +1,21 @@
+.bg-color
+{
+    background-color: antiquewhite;
+}
+.bg-color2
+{
+    background-color: bisque;
+}
+.brdr-bottom
+
+{
+    border-bottom: 1px solid rgba(41,41,41,1);
+}
+body
+{
+    font-family: 'PT Serif', serif;
+}
+.aside-button>li
+{
+    margin: bottom 20px; ;
+}
